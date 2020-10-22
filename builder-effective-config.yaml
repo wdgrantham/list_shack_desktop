@@ -1,0 +1,16 @@
+directories:
+  output: dist
+  buildResources: assets
+files:
+  - filter:
+      - build/**/*
+      - build/**/*
+      - node_modules/**/*
+extraMetadata:
+  main: build/electron.js
+appId: com.listshack.io
+productName: List Shack Desktop
+mac:
+  category: public.app-category.business
+extends: react-cra
+electronVersion: 10.1.3

@@ -1,0 +1,12 @@
+version: 0.1.5
+files:
+  - url: List-Shack-Desktop-0.1.5-mac.zip
+    sha512: bqJ1px4yzhqc+sbCsYdWpGZRxGyonrBocOO2SjE4X6L3Ctkx5o0BX81CSiOkzX12mthK3t65tBfAsqACI72Lzw==
+    size: 129869712
+    blockMapSize: 136575
+  - url: List-Shack-Desktop-0.1.5.dmg
+    sha512: pEuY9eBgq54A+GZbCuFLF962Q1f1g2AUcAkvf7JfeI7d0SR0UGN4VDHntHY1uea2VNzKes2TbKLlDJICoIF+bw==
+    size: 134896582
+path: List-Shack-Desktop-0.1.5-mac.zip
+sha512: bqJ1px4yzhqc+sbCsYdWpGZRxGyonrBocOO2SjE4X6L3Ctkx5o0BX81CSiOkzX12mthK3t65tBfAsqACI72Lzw==
+releaseDate: '2020-10-22T08:58:40.072Z'

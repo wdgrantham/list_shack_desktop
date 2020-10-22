@@ -1,0 +1,7 @@
+*.exe
+*.dmg
+*.blockmap
+*.zip
+mac
+win-unpacked
+.icon*
